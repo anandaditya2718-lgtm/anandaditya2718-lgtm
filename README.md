@@ -1,5 +1,5 @@
 <h1 align="center">Aditya Anand</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | Backend Engineer | API Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+Engineering+%26+APIs;Data+Structures+%26+Algorithms;Building+Scalable+Systems" />
@@ -7,11 +7,15 @@
 
 ---
 
-## 👨‍💻 Professional Summary  
-I am a **Full-Stack Developer** focused on building **scalable web applications, RESTful APIs, and data-driven systems**.  
-I specialize in backend engineering, system design, and problem-solving using modern technologies.
+## 👨‍💻 About Me  
+I am a **Full-Stack Developer** focused on building **secure, scalable, and production-ready web applications**.  
+My strength lies in **backend engineering, API development, and data-driven systems**.
+
+I enjoy designing systems that are **fast, maintainable, and scalable**.
 
 ---
+
+## 🛠 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -28,18 +32,22 @@ I specialize in backend engineering, system design, and problem-solving using mo
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-  
 
 ---
 
-## 🏗 Featured Projects  
+## 🚀 Featured Project  
 
-| Project | Tech Stack | Description |
-|-------|-----------|------------|
-| **Authentication System** | Node.js, MongoDB, JWT | Secure login & role-based access |
-| **RESTful E-commerce API** | Express, MongoDB | Orders, users, products & payments |
-| **Unix File Manager** | Node.js | CLI based file system |
-| **Stock Tracker App** | Node.js, APIs | Live stock price tracking |
+### 🔐 **Enterprise-Grade Authentication & User Management System**  
+**Tech Stack:** Node.js · Express · MongoDB · JWT  
+
+A production-ready backend system that provides:  
+✔ Secure user registration & login  
+✔ JWT-based authentication  
+✔ Role-based access control  
+✔ Password encryption  
+✔ RESTful APIs for users & sessions  
+
+This project is designed following **clean architecture, modular APIs, and real-world backend standards**.
 
 ---
 
@@ -59,21 +67,14 @@ I specialize in backend engineering, system design, and problem-solving using mo
 
 ---
 
-## 🧠 Technical Strengths  
+## 🧠 Engineering Strengths  
 
-✔ Clean Architecture  
-✔ API Design  
+✔ Backend Architecture  
+✔ REST API Design  
+✔ Authentication & Security  
 ✔ Database Modeling  
-✔ Debugging & Optimization  
+✔ Performance Optimization  
 ✔ Data Structures & Algorithms  
-
----
-
-## 🧰 Tech Stack  
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,git,github,html,css,react,vscode,cpp" />
-</p>
 
 ---
 
@@ -85,9 +86,6 @@ I specialize in backend engineering, system design, and problem-solving using mo
 <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=anandaditya2718-lgtm&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
-
