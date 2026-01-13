@@ -55,10 +55,6 @@ This project is designed following **clean architecture, modular APIs, and real-
 ## 📊 GitHub Performance  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anandaditya2718-lgtm&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=anandaditya2718-lgtm&theme=react&hide_border=true" />
 </p>
 
